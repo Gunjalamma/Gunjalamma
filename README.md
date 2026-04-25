@@ -102,9 +102,15 @@ I am currently working as an intern at Tech Mahindra and actively involved in de
 - Integrated Azure services with Power BI for **live data visualization**  
 - Monitored **cloud cost and virtual machine performance**  
 - Implemented **API-based workflows** for real-time data fetching  
-- Built **interactive dashboards** for better decision-making  
- 
+- Built **interactive dashboards** for better decision-making
 
+#### AI Agent Integration with Django & React (Azure AI Foundry)
+-	Developed a full-stack application using Django (backend) and React.js (frontend) 
+-	Integrated a custom AI Agent from Azure AI Foundry into the application 
+-	Built REST APIs in Django to communicate between frontend and AI agent 
+-	Enabled real-time interaction with the agent through a user-friendly UI (localhost) 
+-	Implemented dynamic data handling (e.g., VM details / responses from agent) 
+-	Tested and deployed locally using a complete end-to-end workflow
 ---
 
 ### 🌟 Goal
